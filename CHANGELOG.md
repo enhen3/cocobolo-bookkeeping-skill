@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-05 — Cocobolo branding
+
+- Public repository and display title renamed to Cocobolo Bookkeeping Skill. Download, image, issue and maintenance links use the new repository.
+- Accounting code, synthetic fixtures, license and the installed skill identifier `household-ledger-skill` remain unchanged.
+
+
 ## 0.3.0-preview.20261028.6 (Chinese onboarding and native Fava example)
 
 - Lead README with user outcomes, a reviewed native Fava synthetic screenshot, a workflow diagram and a short install-to-first-result path. Preserve detailed installation/history evidence in references.

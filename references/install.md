@@ -4,7 +4,7 @@
 
 ## 获取与安装
 
-官方领取入口：[GitHub 源码仓库](https://github.com/enhen3/household-ledger-skill-public)。点击 **Code → Download ZIP**，解压 `household-ledger-skill-public-main`，确认这个目录直接包含 `SKILL.md`、`scripts/`、`references/`、`examples/` 和 `requirements.txt`。将整个目录改名为 `household-ledger-skill` 后放到对应Agent项目目录，不要只复制SKILL.md，也不要重复嵌套一层仓库目录。
+官方领取入口：[GitHub 源码仓库](https://github.com/enhen3/cocobolo-bookkeeping-skill)。点击 **Code → Download ZIP**，解压 `cocobolo-bookkeeping-skill-main`，确认这个目录直接包含 `SKILL.md`、`scripts/`、`references/`、`examples/` 和 `requirements.txt`。将整个目录改名为 `household-ledger-skill` 后放到对应Agent项目目录，不要只复制SKILL.md，也不要重复嵌套一层仓库目录。
 
 以已实测的Codex项目安装为例，最终路径是 **项目/.agents/skills/household-ledger-skill/SKILL.md**。在该项目中打开新会话，再使用下方“第一句话”和独立venv命令。其他Agent放置方式见表格；目录规范可适配不等于宿主实测通过。
 

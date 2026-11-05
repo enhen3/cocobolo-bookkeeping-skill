@@ -1,6 +1,6 @@
 # 公开源码维护约定
 
-公开仓库：https://github.com/enhen3/household-ledger-skill-public。真实账本、账户映射、私人规则、凭据和机器路径不得进入本仓库或其历史。公开源码许可不是Agent自动推送、发布平台内容或操作财务数据的授权。
+公开仓库：https://github.com/enhen3/cocobolo-bookkeeping-skill。真实账本、账户映射、私人规则、凭据和机器路径不得进入本仓库或其历史。公开源码许可不是Agent自动推送、发布平台内容或操作财务数据的授权。
 
 ## 维护步骤
 

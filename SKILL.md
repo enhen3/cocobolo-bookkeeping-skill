@@ -3,9 +3,9 @@ name: household-ledger-skill
 description: Use when importing household bank, Alipay or WeChat statements, recording spending context, reviewing categories, reconciling multiple owners, closing a monthly ledger, or maintaining the bookkeeping skill. 适用于记账、补充消费用途、月末账单整理、核对、家庭月报与本地浏览器图表。
 ---
 
-# 家庭记账 Skill
+# Cocobolo Bookkeeping Skill
 
-当前候选0.3.0-preview.20261028.6，作者Soren，自有内容采用GPL-2.0-only，见 [LICENSE.txt](LICENSE.txt) 和 [版权范围](COPYRIGHT.txt)。公开源码入口为 https://github.com/enhen3/household-ledger-skill-public；版本、实际提交与包校验值以交付回执为准。安装、记账或本地自检不授权push/publish或平台上传；这不是对下游GPL权利的附加限制。下载ZIP不含.git，使用README的安装者自检路径。先读 [候选版本说明](references/distribution.md)。
+当前候选0.3.0-preview.20261028.6，作者Soren，自有内容采用GPL-2.0-only，见 [LICENSE.txt](LICENSE.txt) 和 [版权范围](COPYRIGHT.txt)。公开源码入口为 https://github.com/enhen3/cocobolo-bookkeeping-skill；版本、实际提交与包校验值以交付回执为准。安装、记账或本地自检不授权push/publish或平台上传；这不是对下游GPL权利的附加限制。下载ZIP不含.git，使用README的安装者自检路径。先读 [候选版本说明](references/distribution.md)。
 
 资金流水是事实，备注是解释。缺来源不是零消费，试算平衡不是银行核对。只生成候选账本，正式账本由原有发布入口的唯一主写者处理。
 

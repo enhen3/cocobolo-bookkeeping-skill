@@ -4,7 +4,7 @@
 
 ## 状态与官方入口
 
-公开领取仓库：https://github.com/enhen3/household-ledger-skill-public。从 Code → Download ZIP 获取源码，解压后找到直接含 SKILL.md 的目录。当前公开仓库是独立源码快照，不包含内部维护历史、备份或依赖实现。实际公开提交和两包哈希见交付回执；RED 尚未上架，也未验证平台内运行。
+公开领取仓库：https://github.com/enhen3/cocobolo-bookkeeping-skill。从 Code → Download ZIP 获取源码，解压后找到直接含 SKILL.md 的目录。当前公开仓库是独立源码快照，不包含内部维护历史、备份或依赖实现。实际公开提交和两包哈希见交付回执；RED 尚未上架，也未验证平台内运行。
 
 官方说明：“官方包可免费获取；第三方收费服务不代表官方提供或背书。”这只是来源与背书说明，不增加 GPL 的使用限制；符合 GPL 的商用和转售不需要再取得本项目的额外收费许可。
 

@@ -21,5 +21,5 @@ This notice applies to candidate 0.3.0-preview.20261028.6. Earlier candidate
 0.2.0-preview.20261027.1 is retained as historical material under its
 separate license text and must not be confused with this GPL version.
 
-Official public download location: https://github.com/enhen3/household-ledger-skill-public
+Official public download location: https://github.com/enhen3/cocobolo-bookkeeping-skill
 作者：Soren。自有内容采用 GPL-2.0-only，第三方权利声明不变。

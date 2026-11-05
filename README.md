@@ -1,16 +1,16 @@
-# 家庭记账 Skill
+# Cocobolo Bookkeeping Skill
 
 **让 AI 帮你整理账单、找出待核问题，再在自己的浏览器里看收支。**
 
 把已支持的银行、支付宝、微信账单交给本地 Agent：它整理来源、发现疑似重复、询问不确定的用途，生成可复核的 Beancount 候选账本、中文月报和原生 Fava 图表。你负责确认生活用途与来源完整性。
 
-**[免费下载源码 ZIP](https://github.com/enhen3/household-ledger-skill-public/archive/refs/heads/main.zip)** · [开始安装](#开始安装) · [完整演示步骤](references/visual-demo.md) · [支持范围](#支持范围)
+**[免费下载源码 ZIP](https://github.com/enhen3/cocobolo-bookkeeping-skill/archive/refs/heads/main.zip)** · [开始安装](#开始安装) · [完整演示步骤](references/visual-demo.md) · [支持范围](#支持范围)
 
-作者 **Soren** · 预览版 `0.3.0-preview.20261028.6` · 自有内容 **GPL-2.0-only**
+作者 **Cocobolo（Soren）** · 预览版 `0.3.0-preview.20261028.6` · 自有内容 **GPL-2.0-only**
 
 ## 结果长什么样
 
-[![原生 Fava 损益表：虚构2001年4月，只读候选，待确认0，收入12000元，净支出6044元](https://raw.githubusercontent.com/enhen3/household-ledger-skill-public/main/references/images/fava-income-statement.jpg)](https://raw.githubusercontent.com/enhen3/household-ledger-skill-public/main/references/images/fava-income-statement.jpg)
+[![原生 Fava 损益表：虚构2001年4月，只读候选，待确认0，收入12000元，净支出6044元](https://raw.githubusercontent.com/enhen3/cocobolo-bookkeeping-skill/main/references/images/fava-income-statement.jpg)](https://raw.githubusercontent.com/enhen3/cocobolo-bookkeeping-skill/main/references/images/fava-income-statement.jpg)
 
 这是**实际运行的原生 Fava 页面截图**，使用随包生成的虚构账单；点击图片可放大。画面保留“只读候选、非正式”标识，没有真实财务资料。[截图来源与口径](references/images/README.md)
 
@@ -50,7 +50,7 @@ flowchart LR
 
 ### 1. 下载整个目录，装到Agent项目里
 
-点击上方下载按钮，或本仓库 **Code → Download ZIP**。解压后进入 `household-ledger-skill-public-main`，确认根目录直接有 `SKILL.md`、`scripts/`、`references/`、`examples/`、`requirements.txt`。
+点击上方下载按钮，或本仓库 **Code → Download ZIP**。解压后进入 `cocobolo-bookkeeping-skill-main`，确认根目录直接有 `SKILL.md`、`scripts/`、`references/`、`examples/`、`requirements.txt`。
 
 将**整个目录**改名为 `household-ledger-skill` 后放到宿主的项目目录；不要只复制SKILL.md，也不要多套一层解压目录。
 
@@ -153,6 +153,6 @@ VIEW_DIR="$(mktemp -d)"
 
 作者Soren，自有内容采用[GPL-2.0-only](LICENSE.txt)，遵守许可证可使用、修改、再分发及商用。第三方依赖各自许可不变；没有对整个依赖组合作法律保证，详见[版权范围](COPYRIGHT.txt)、[第三方通知](references/third-party-licenses.md)。不捆绑依赖实现或venv。
 
-遇到问题可在[Issues](https://github.com/enhen3/household-ledger-skill-public/issues)提供版本、OS/Python/Agent、命令类别和脱敏错误。**不要上传真实账单、账户、凭据、私人路径或完整含敏感内容的日志。**
+遇到问题可在[Issues](https://github.com/enhen3/cocobolo-bookkeeping-skill/issues)提供版本、OS/Python/Agent、命令类别和脱敏错误。**不要上传真实账单、账户、凭据、私人路径或完整含敏感内容的日志。**
 
 [安装细节](references/install.md) · [工作流](references/workflow.md) · [月报口径](references/result-summary.md) · [验收边界](references/acceptance.md) · [版本历史](CHANGELOG.md) · [分发与维护](references/distribution.md)

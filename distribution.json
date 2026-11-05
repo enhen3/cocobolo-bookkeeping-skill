@@ -38,7 +38,7 @@
   "predecessor_version": "0.3.0-preview.20261028.5",
   "license_spdx": "GPL-2.0-only",
   "author": "Soren",
-  "public_download_url": "https://github.com/enhen3/household-ledger-skill-public",
+  "public_download_url": "https://github.com/enhen3/cocobolo-bookkeeping-skill",
   "public_download_status": "public-source-repository",
   "baseline_files_sha256": {
     "examples/README.md": "4b78f6b237ad08ef35619f87694c2e5feb3c2051a1840a9be5dbe4aaecbd9160",
@@ -71,6 +71,6 @@
   ],
   "candidate_parent_commit": null,
   "source_origin": "clean snapshot; independent public Git root; exact file hashes below",
-  "repository_full_name": "enhen3/household-ledger-skill-public",
+  "repository_full_name": "enhen3/cocobolo-bookkeeping-skill",
   "repository_visibility": "public"
 }
